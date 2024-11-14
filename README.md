@@ -29,15 +29,15 @@ Pedro Viana, Lucas Kobayashi e João Matheus
 Responsável pela criação do design no figma além de contribuir com ideias e dicas.
 
 ## Instalação:
-bcrypt
-chalk
-cors
-express
-express-session
-method-override
-mongodb
+bcrypt,
+chalk,
+cors,
+express,
+express-session,
+method-override,
+mongodb,
 mongoose
 
 # Uso do site:
-npm server.js
+npm server.js,
 Segurar o botão esquerdo do mouse para pegar e arrastar os cubos da imagem 3D
