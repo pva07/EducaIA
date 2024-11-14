@@ -40,3 +40,4 @@ mongoose
 
 # Uso do site:
 npm server.js
+Segurar o botão esquerdo do mouse para pegar e arrastar os cubos da imagem 3D
