@@ -4,6 +4,7 @@ Site de cursos de Inteligencias Artificiais feito por aluno da FIAP SCHOOL
 ## Descrição:
 Objetivos do projetos é ensinar pessoas que não minimo de conhecimentos sobre IA's
 Como principais funcionalidades é a parte de login e o 3D
+Para fazer rodar o site dar "npm i" nas pastas de "IA" e "server.js"
 ### Tecnologias utilizadas
 Node.js
 Index.html
